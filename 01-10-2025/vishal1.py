@@ -1,0 +1,2 @@
+home='chiuthan'
+district='deoria'
