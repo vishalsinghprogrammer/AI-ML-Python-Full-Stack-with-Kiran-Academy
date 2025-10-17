@@ -4,8 +4,8 @@
 #  price=199
 #  print(price)
   
- if day in ["Saturday", "Sunday"]:
-     print("It's the weekend.")
+if day in ["Saturday", "Sunday"]:
+    print("It's the weekend.")
 
  x = 10
  if x > 15:

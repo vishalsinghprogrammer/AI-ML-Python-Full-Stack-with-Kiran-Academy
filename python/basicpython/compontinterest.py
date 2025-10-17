@@ -1,0 +1,1 @@
+principal=float(input('principal'))
