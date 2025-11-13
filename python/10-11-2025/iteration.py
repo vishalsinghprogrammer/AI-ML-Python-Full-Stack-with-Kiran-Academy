@@ -34,5 +34,5 @@
 
 details={'name':'vishal','salary':80000,'age':21}
 for i ,j in details.items():
-    print(i)  
+    print(i)            #jo space chhodate hai use i
                
