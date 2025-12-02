@@ -64,3 +64,34 @@
 # for i in numbers:
 #     sum=sum+i
 # print(sum) 
+
+# number=(1,2,3,4,5,6,7,8,)
+# print(8>>2)
+
+# print('Hello ' + str(10))
+  
+
+# print(bool(''))  
+# print(5//2)
+
+# print([1,2] is [1,2])
+
+# print={1, 2, 3} ^ {2, 3, 4}
+# print(type(3.14))
+
+
+# x = 3; 
+# while x > 0: 
+#     x -= 1; 
+#     if x == 1: 
+#         break; 
+#     print(x)
+
+# # print(type([1,2,3]))
+# print(type(10))
+# print('abc'* 0)
+# print(-(-5))
+# print(5 and 0)
+for i in range(3): 
+    for j in range(2): 
+        print(i + j)
