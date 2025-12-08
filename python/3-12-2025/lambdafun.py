@@ -53,4 +53,8 @@
 # print(list(map(lambda num:num**2,number)))
 # print(dict(map(lambda num:(num,num**2),number)))
 
-students=['vainhavpatil','rameh wagh','rajesh tope','suraj singh','prince prjapati','kunal kale']
+# students=['vainhavpatil','rameh wagh','rajesh tope','suraj singh','prince prjapati','kunal kale']
+
+#20k=>10%=>dict
+product={'laptop':50000,'mobile':25000,'bag':10000,'fan':5000,'Tv':40000}
+filter(lambda :product)
