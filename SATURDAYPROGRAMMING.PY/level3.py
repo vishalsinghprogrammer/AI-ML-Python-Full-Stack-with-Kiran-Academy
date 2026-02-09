@@ -104,6 +104,17 @@
  
 #  #write a program to add only Armstrong number into list  
   
-        
+# list=[1,10,50,78,72,82] 
+# for i in list:
+#     print(i)
+
+
+# students=[]
+# while cont=='yes':
     
+#what is DAT-type?
+#what is looping satement
+#diff between for-loop and whileloop
+#what is purpose of conditional statement
+#what is purpose of continue and break    
     
