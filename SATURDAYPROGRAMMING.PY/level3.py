@@ -118,3 +118,171 @@
 #what is purpose of conditional statement
 #what is purpose of continue and break    
     
+#Write a program to check if a given string is a palindrome or not using loops?
+# word = input("Enter a Word: ")
+# rev = ""
+
+# for char in word:
+#     rev = char + rev   
+
+# if word  == rev:
+#     print("Palindrome")
+# else:
+#     print(" NOT a Palindrome")
+
+#write a program to find the frequency of each character in a string (how many times each character occors)
+
+# s =input("Enter a sting")
+# freq={}
+# for char in s:
+#     if char not in freq:
+#         freq[char]+1
+#     else:
+#         freq[char]=freq[char]+1
+# print(freq)             
+    
+# creat a function to calculte  addion a two number
+# def add_number(n1,n2):
+#     add = n1+n2
+#     return add 
+# r=add_number(10,7)
+# print(r)
+
+# def sum (n1=0,n2=0):
+#     result=int(n1)+int(n2)
+#     return result 
+# print(sum())
+
+
+# def sum(n1=0,n2=0):
+#     if isinstance(n1,)
+
+#write a function to return power of number
+# eg base , power=5 ;
+
+# write a function to return count of number which is divisinbble by 4(range-123 to 233)
+
+
+#write a function to check the number is prime number or not 
+
+# def checkprimenumber(num):
+#    count =0
+#    for i in range(1,num+1):
+#        if (num%i==0):
+#            count+=1
+#    if(count==2):
+#         print("prime number")
+#    else:
+#        print("not prime number")       
+           
+    
+#write a function to print prime number from 1 to 100
+# def checkprimenumber(num):
+#    count =0
+#    for i in range(1,num+1):
+#        if (num%i==0):
+#            count+=1
+#    if(count==2):
+#         print("prime number")
+#    else:
+#        print("not prime number") 
+# for num in range(1,101):
+#      checkprimenumber()
+
+
+# write a function to print count of print number from 1 to 100
+
+# def count_primenumber():
+#     count_prime = 0
+    
+#     for num in range(2, 101):
+#         for i in range(2, num):
+#             if num % i == 0:
+#                 break
+#         else:
+#             count_prime += 1
+            
+#     print("Total Prime Numbers:", count_prime)
+
+# count_primenumber()
+
+# write a function to print divisor of number e.g 12=1,2,3,4,6,12
+# def divisor(n):
+#     for i in range(1, n+1):
+#         if n % i == 0:
+#             print(i)
+
+# divisor(12)
+
+
+#write a function to return count of divisor of number
+# def count_divisor(n):
+#     count = 0
+#     for i in range(1, n+1):
+#         if n % i == 0:
+#             count += 1
+#     return count
+
+# print(count_divisor(4))
+
+#write a function to orint sum os divisor of number
+
+#write a function to check the number is perfect number or not #e.g n=28=1,2,4,7,14,28 sum=1+2+4+7+14+
+#write a function to print perfect number from 1 to100
+
+# def perfect():
+#     for n in range(1, 101):
+#         s = 0
+#         for i in range(1, n):
+#             if n % i == 0:
+#                 s += i
+#         if s == n:
+#             print(n)
+
+# perfect()
+
+
+
+# create a function  to check  prime  number or not.
+# num = int(input("enter num:"))
+# for i in range (2,num):
+#     if num%1 ==0:
+#         print("Not Prime")
+#         break
+# else:
+#     print("prime")    
+    
+    
+#write a program to print a list of prime number for 1 to 500
+# prime=[]
+# for num in range(2,501):
+#     for i in range(2,num):
+        
+#         if num%i==0:
+#             break
+#     else:
+#             prime.append(num)
+# print(prime)
+
+# #
+# def prime():
+#     for num in range (2,501):
+#         for i in range (2,num):
+#             if num %i==0:
+#                 break
+#         else:
+  # write a program to check whether given number is armstrong number   or not       
+# num =int(input("number"))
+# snum=str(num)
+# n=len(sum)
+# sum=0
+# for i in snum:
+#     sum=sum+int(i)**n
+# if num ==sum :
+#     print(True)
+# else:
+#     print(False)   
+
+#wrp list of armstrong from given range
+
+
